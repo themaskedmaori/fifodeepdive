@@ -60,7 +60,7 @@ nav {
   align-items: center;
   text-align: center;
   padding: 120px 30px 80px;
-  background: linear-gradient(rgba(10,10,10,0.7), rgba(10,10,10,0.85)), url('images/hero.jpg') center/cover no-repeat;
+  background: linear-gradient(rgba(10,10,10,0.7), rgba(10,10,10,0.85)), url('images/hero.jpeg') center/cover no-repeat;
 }
 .hero h1 {
   font-size: 52px;
@@ -383,3 +383,4 @@ footer a { color: #d4a017; }
   .nav-links { gap: 12px; }
   section { padding: 60px 20px; }
 }
+
